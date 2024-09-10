@@ -1,7 +1,4 @@
 # 김진수's git_workspace
 
 - asdf
-- afsdfq
-- qwrㅁㄴㅇㄹ
-- ㄼㅈㄷㄱ
-- 
+- ![img.png](img.png)
